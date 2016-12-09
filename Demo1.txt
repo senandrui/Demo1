@@ -1,4 +1,8 @@
 
 what happened!
+<<<<<<< HEAD
 The second branch
 
+=======
+the first branch
+>>>>>>> refs/remotes/origin/new-masterh
